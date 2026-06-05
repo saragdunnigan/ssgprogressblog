@@ -5,5 +5,5 @@ Overall, I would say I am really excited to get my topic and start analyzing all
 and no I still don't know how to spell isochrone, isochron? Who knows, not me thats for sure.
 
 
-##MY BEAUTIFUL GRAPH
+MY BEAUTIFUL GRAPH
 <img width="549" height="395" alt="image" src="https://github.com/user-attachments/assets/c5beafe6-46dd-4768-9535-fd867d08ad08" />
