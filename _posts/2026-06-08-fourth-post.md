@@ -43,5 +43,6 @@ Then I did a little more processing on one of them
 
 <img width="848" height="400" alt="flattened 158066720" src="https://github.com/user-attachments/assets/5244862d-30e7-4b1e-9122-12f5fb15714f" />
 <img width="848" height="400" alt="folded 158066720" src="https://github.com/user-attachments/assets/ab755a8f-5cf1-4b20-aaa3-b1ff9f3977d9" />
+<img width="848" height="400" alt="binned 158066720" src="https://github.com/user-attachments/assets/bfc2e591-1b0d-4173-9de9-3d5eeec0f46a" />
 
-
+My overall reflection is that the sample doesn't look very similar, but I am wondering if that is because their example is a relatively inactive star, because they are looking for transiting exoplanets, whereas we are looking at very active stars with lots of sunspots rotating very fast. That is my thought on why they may be so different. I am feeling like I am doing things but without a great understanding as to why for everystep so I am excited to talk about this more tomorrow. One next step I have identified is learning how to extract a light curve from the FITs data.
