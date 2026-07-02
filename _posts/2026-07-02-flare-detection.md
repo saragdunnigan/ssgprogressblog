@@ -8,4 +8,4 @@ I have also been graphing them just as like a sanity check for verification that
 I also want to mask something like super out of flare possibility such as the graph below
 <img width="3819" height="1563" alt="image" src="https://github.com/user-attachments/assets/9158a0ab-96c2-4560-827c-8c47d3de4393" />
 
-Overall I think this is working but I want to fine tune it so it does exaclty what I want it to and to make it easier to work with. Tran and song did a lot of flare exclusion after detection and after getting their synthetic injection recovery. I also want to do more of the data set because I don't think these first ten TIC numbers have particularly good light curves.
+Overall I think this is working but I want to fine tune it so it does exaclty what I want it to and to make it easier to work with. Tran and song did a lot of flare exclusion after detection and after getting their synthetic injection recovery. I also want to do more of the data set because I don't think these first ten TIC numbers have particularly good light curves. So super great day!
