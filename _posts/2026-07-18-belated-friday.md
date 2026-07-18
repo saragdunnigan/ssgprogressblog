@@ -1,0 +1,1 @@
+Not much to report on for Friday. Just continuing to grind away at running the flare detection code, it is taking longer than I was expecting but all good. I am also continuing to draft my writing bits. I have a couple of paragraphs in the introduction.
